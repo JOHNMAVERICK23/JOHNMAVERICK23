@@ -1,4 +1,4 @@
-Hi, I'm John Maverick 👋
+Hi, I'm John 👋
 
 I'm a BSIT student and Full-Stack Web Developer interested in building web applications, APIs, and database-driven systems.
 
@@ -28,3 +28,16 @@ Development Tools
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
+💻 What I Work With
+
+🌐 Frontend development using HTML, CSS, JavaScript, Tailwind CSS, and Bootstrap
+
+⚙️ Backend development using Node.js, Express.js, PHP, and FastAPI
+
+🗄️ Database development using MySQL and PostgreSQL
+
+🔌 Building and working with REST APIs
+
+🔧 Version control using Git and GitHub
+
+🧑‍💻 Development using Visual Studio Code
