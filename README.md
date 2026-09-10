@@ -6,7 +6,7 @@
 
 ---
 
-### About Me
+<h3 align="center">About Me</h3>
 
 I'm a **BSIT student** and **Full-Stack Web Developer** interested in building web applications, APIs, and database-driven systems.
 
@@ -17,25 +17,28 @@ I'm a **BSIT student** and **Full-Stack Web Developer** interested in building w
 
 ### Technologies & Tools
 
-**Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,sql" />
-</p>
-
-**Frameworks & Libraries**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,express,fastapi" />
-</p>
-
-**Runtime & Database**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres" />
-</p>
-
-**Development Tools**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Languages</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,php,sql" />
+    </td>
+    <td valign="top" width="50%">
+      <strong>Frameworks & Libraries</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,express,fastapi" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Runtime & Database</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres" />
+    </td>
+    <td valign="top" width="50%">
+      <strong>Development Tools</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+    </td>
+  </tr>
+</table>
 
 ---
 
