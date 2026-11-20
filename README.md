@@ -25,7 +25,7 @@ I'm a **BSIT student** and **Full-Stack Web Developer** interested in building w
     </td>
     <td valign="top" width="50%">
       <strong>Frameworks & Libraries</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,express" />
+      <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,express" />
     </td>
   </tr>
   <tr>
@@ -35,7 +35,7 @@ I'm a **BSIT student** and **Full-Stack Web Developer** interested in building w
     </td>
     <td valign="top" width="50%">
       <strong>Development Tools</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+      <img src="https://skillicons.dev/icons?i=vite,git,github,vscode" />
     </td>
   </tr>
 </table>
@@ -46,8 +46,8 @@ I'm a **BSIT student** and **Full-Stack Web Developer** interested in building w
 
 | Area | Stack |
 |---|---|
-| Frontend | HTML, CSS, JavaScript, Tailwind CSS, Bootstrap |
+| Frontend | HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap |
 | Backend | Node.js, Express.js, PHP |
 | Database | MySQL, SQL, PostgreSQL |
 | APIs | Building & consuming REST APIs |
-| Tools | Git, GitHub, Visual Studio Code |
+| Tools | Git, GitHub, Visual Studio Code, Vite |
